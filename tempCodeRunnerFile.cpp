@@ -1,5 +1,8 @@
+ // int a,b;
+    // cout<<"enter first number: ";
+    // cin>>a;
+    // cout<<"enter second number:";
+    // cin>>b;
 
-    double PI2 = 3.14159265359;
-
-    cout<<"PI = "<<PI<<endl;
-     cout<<"PI2 = "<<PI2<<endl;
+    // int bit_man = a&b;
+    // cout<<bit_man;
